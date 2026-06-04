@@ -3,17 +3,11 @@
 # Purpose:
 # Define who owns which files.
 # Update this with real GitHub usernames or teams.
-#
-# Examples:
-# * @your-username
-# /docs/ @your-username
-# /components/ @frontend-team
-# /db/ @backend-team
 
-* @your-github-username
+* @anudeep-17
 
-/AGENTS.md @your-github-username
-/PROJECT.md @your-github-username
-/ARCHITECTURE.md @your-github-username
-/SECURITY.md @your-github-username
-/.github/ @your-github-username
+/AGENTS.md @anudeep-17
+/PROJECT.md @anudeep-17
+/ARCHITECTURE.md @anudeep-17
+/SECURITY.md @anudeep-17
+/.github/ @anudeep-17
