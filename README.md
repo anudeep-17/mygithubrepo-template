@@ -1,4 +1,4 @@
-# Goated Codex Repo Template
+# My Repo Template
 
 <!--
 Purpose:
