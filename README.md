@@ -1,4 +1,4 @@
-# Goated GitHub Project Template
+# My GitHub Project Template
 
 <!--
 Purpose:
